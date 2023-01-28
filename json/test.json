@@ -1,0 +1,55 @@
+{
+  "ep2_query_id": "760e94ca-7e0e-47b3-a72a-70d38cd76fe5",
+  "meta_summary_flow_a": "\n\nThis summary provides an overview of SalesLoft, a software product that provides sales reps with a comprehensive set of tools to monitor and regulate sales development activities. It also integrates with LinkedIn to generate contact information.",
+  "meta_summary_flow_b": "\n\nThis summary discusses how sales managers can maximize their team's productivity. It outlines various strategies and tips to help sales teams remain productive and focused, even during times of low sales or other lulls.",
+  "individual_summaries_flow_a": [
+    "1. SalesLoft offers a comprehensive sales prospecting and automation software that allows sales reps to customize their process for monitoring and regulating sales development activities. It also integrates with LinkedIn to generate contact information and help with the first step of building a relationship with a prospect. \n\n2. Yesware is an email tracking tool that helps sales teams understand who is responding to their emails, so they know who to target and follow up with. It is compatible with Sales Navigator, Gmail, and Salesforce to ensure efficiency.\n\n3. Outreach is a sales engagement platform that combines CRM and inbox features to facilitate reaching out to leads. It helps craft successful emails and phone calls, nurture relationships, and manage pipelines with more accuracy."
+  ],
+  "individual_summaries_flow_b": [
+    "1. SalesLoft offers a comprehensive sales prospecting and automation software that allows sales reps to customize their process for monitoring and regulating sales development activities. It also integrates with LinkedIn to generate contact information and help with the first step of building a relationship with a prospect. \n\n2. Yesware is an email tracking tool that helps sales teams understand who is responding to their emails, so they know who to target and follow up with. It is compatible with Sales Navigator, Gmail, and Salesforce to ensure efficiency.\n\n3. Outreach is a sales engagement platform that combines CRM and inbox features to facilitate reaching out to leads. It helps craft successful emails and phone calls, nurture relationships, and manage pipelines with more accuracy."
+  ],
+  "runtime": "22.351032495498657",
+  "openai_request_1_flow_a": {
+    "prompt": [
+      "test\n\n\"1. SalesLoft SalesLoft is a sales prospecting and automation software that helps sales reps create their own customized process for monitoring and regulating sales development emails, calls, and other activities. And the best part? It works in tandem with LinkedIn to generate lists of contact information to help you take the first step toward establishing a connection and developing a relationship with a prospect. 2. Yesware Email is great, but without knowing who opens your emails or clicks on your links, you may be reaching out to the wrong people. Yesware gives you greater insight into who is responding to your emails, so you have a better idea of who to target or follow up with. It can be integrated with LinkedIn Sales Navigator, Gmail, and Salesforce to help your team maintain efficiency using the tools they already know. 3. Outreach Outreach is a sales engagement platform that integrates with your CRM and inbox to help you reach out to prospective leads with confidence. Outreach helps you craft successful emails and phone calls, nurture relationships online, and manage your pipeline with greater predictability. Today, customer relationship management (CRM) software is among the most common tools for sales and marketing teams.\"\n\n"
+    ],
+    "openai_model_identifier": "text-davinci-003",
+    "max_tokens": 500,
+    "top_p": 1,
+    "temperature": 0.7,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "stop": [
+      "####"
+    ]
+  },
+  "openai_request_1_flow_b": {
+    "prompt": [
+      "test\n\n\"Do you know what all sales managers have in common? They all want to know the answer to one important question: How can I ensure my team is remaining consistently productive and focused — even during lulls and downtime? Okay, managers across all industries have this in common. And it’s because they know that a focused and productive workforce is a profitable workforce. Sales leaders that are able to take advantage of the right technologies for supporting their teams are gaining an edge by enabling reps to focus on the most important work and sell smarter. There’s no shortage of capable sales productivity tools to choose from. But finding the right tool for your team—and one that actually boosts productivity—is usually easier in theory than in execution. You don’t have time to test each tool out there, but you don’t want to rely on guesswork, either. We’re here to help. Check out some of our favorite sales acceleration, CRM, and sales intelligence tools. As the name suggests, sales acceleration tools are primarily designed to increase sales velocity and shorten deal cycles. They do this through a variety of means: automating aspects of the sales process, connecting reps to qualified opportunities more quickly, and facilitating more fruitful engagements. 1. SalesLoft SalesLoft is a sales prospecting and automation software that helps sales reps create their own customized process for monitoring and regulating sales development emails, calls, and other activities. And the best part? It works in tandem with LinkedIn to generate lists of contact information to help you take the first step toward establishing a connection and developing a relationship with a prospect. 2. Yesware Email is great, but without knowing who opens your emails or clicks on your links, you may be reaching out to the wrong people. Yesware gives you greater insight into who is responding to your emails, so you have a better idea of who to target or follow up with. It can be integrated with LinkedIn\"\n\n"
+    ],
+    "openai_model_identifier": "text-davinci-003",
+    "max_tokens": 500,
+    "top_p": 1,
+    "temperature": 0.7,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "stop": [
+      "####"
+    ]
+  },
+  "openai_request_2_flow_a_b": {
+    "prompt": [
+      "test\n\nsummary 1: \"1. SalesLoft offers a comprehensive sales prospecting and automation software that allows sales reps to customize their process for monitoring and regulating sales development activities. It also integrates with LinkedIn to generate contact informati\"",
+      "test\n\nsummary 1: \"Sales managers across all industries have one important question in common: how can they ensure their teams remain consistently productive and focused, even during lulls and downtime? To help sales leaders maximize their team's productivity, there ar\""
+    ],
+    "openai_model_identifier": "text-davinci-003",
+    "max_tokens": 500,
+    "top_p": 1,
+    "temperature": 0.7,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "stop": [
+      "####"
+    ]
+  }
+}
